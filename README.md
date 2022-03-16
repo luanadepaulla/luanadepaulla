@@ -1,7 +1,6 @@
 ## Olá eu sou a Luana :)
 
-- 🌱 Estudando: Javascript/Vue js
-- 😄 Pronouns: Ela/Dela
+- 🌱 Estudando: Javascript
 
 <div align="center">
   <a href="https://github.com/luanadepaulla">
