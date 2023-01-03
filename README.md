@@ -1,4 +1,4 @@
-## Olá eu sou a Luana :)
+## Olá :)
 
 - 🌱 Estudando: Rest Assured | Jenkins
 
